@@ -13,9 +13,11 @@
     </properties>
 
     <groupId>ru.bakhuss</groupId>
-    <artifactId>spring-all-dependencies</artifactId>
+    <artifactId>spring-all-deps</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>${package.type}</packaging>
+
+    <description>Spring all dependencies</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
