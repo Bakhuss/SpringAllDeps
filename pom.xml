@@ -15,7 +15,7 @@
     <groupId>ru.bakhuss</groupId>
     <artifactId>spring-all-deps</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>${package.type}</packaging>
+    <packaging>pom</packaging>
 
     <description>Spring all dependencies</description>
 
@@ -470,7 +470,7 @@
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
-            <version>1.11.3</version>
+            <version>1.12.1</version>
         </dependency>
         <dependency>
             <groupId>commons-dbcp</groupId>
