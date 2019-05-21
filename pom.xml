@@ -8,7 +8,7 @@
         <java.version>1.8</java.version>
         <encoding>UTF-8</encoding>
         <package.type>jar</package.type>
-        <akka.version>2.5.22</akka.version>
+        <akka.version>2.5.23</akka.version>
         <spring.social.version>1.5.20.RELEASE</spring.social.version>
     </properties>
 
